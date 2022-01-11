@@ -21,3 +21,5 @@
   <a href="mailto:viniciuspadovam.contato@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCqYqFSy95yzXeCtfiQFa2uw"  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
+
+![Snake animation](https://github.com/viniciuspadovam/viniciuspadovam/blob/output/github-contribution-grid-snake.svg)
