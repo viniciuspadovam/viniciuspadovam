@@ -11,7 +11,6 @@ Desenvolvedor Java na MJV Technology & Innovation. Apaixonado por aprender novas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuspadovam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspadovam&layout=compact&langs_count=5&theme=dracula&locale=pt-br"/>
 </div>
  
 ## Tecnologias que uso no dia a dia 📝
