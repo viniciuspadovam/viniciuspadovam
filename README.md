@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Desenvolvedor Java na MJV Technology & Innovation. Apaixonado por aprender novas tecnologias para evoluir como desenvolvedor.
+Sou desenvolvedor Full Stack, Atualmente atuando como desenvolvedor Backend Java na *MJV Technology & Innovation*.
+
+Um apaixonado por aprender novas tecnologias e evoluir como desenvolvedor.
 
 <div>
   <a href="https://www.linkedin.com/in/viniciuspadovam57a3b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
