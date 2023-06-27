@@ -11,9 +11,9 @@ Um apaixonado por aprender novas tecnologias e evoluir como desenvolvedor.
 
 <br/>
 
-<div align="center">
+<!--div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuspadovam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues&locale=pt-br"/>
-</div>
+</div-->
  
 ## Tecnologias que uso no dia a dia 📝
 
